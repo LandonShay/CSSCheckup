@@ -1,0 +1,40 @@
+body{
+    background-color: lightgray;
+}
+
+.class1{
+    font-family: Arial;
+    font-size: 30px;
+    border-color: black;
+    border-style: dashed;
+    border-width: 4px;
+    background-color: magenta;
+}
+
+.class1 li:nth-child(1){
+    font-family: "Times New Roman";
+    border-style: solid;
+    border-color: yellow;
+    margin: 50px 50px 50px 0px
+}
+
+.class1 li:nth-child(2){
+    font-family: georgia;
+    font-style: italic;
+    border-style: dotted;
+    border-color: azure;
+    height: 100px;
+}
+
+#ID1{
+    background-color: lime;
+    font-size: 10px;
+}
+
+h1{
+    text-align: center;
+}
+
+p{
+    text-align: center;
+}
